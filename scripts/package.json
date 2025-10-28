@@ -1,0 +1,25 @@
+{
+  "name": "@epic-designer/scripts",
+  "version": "1.0.5",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "",
+  "scripts": {
+    "stub": "pnpm unbuild --stub"
+  },
+  "bin": {
+    "epic": "./bin/epic.mjs"
+  },
+  "main": "./dist/index.mjs",
+  "module": "./dist/index.mjs",
+  "devDependencies": {
+    "@manypkg/get-packages": "catalog:",
+    "@types/node": "catalog:",
+    "cac": "catalog:",
+    "find-up": "catalog:",
+    "ts-node": "catalog:",
+    "typescript": "catalog:",
+    "unbuild": "catalog:"
+  }
+}

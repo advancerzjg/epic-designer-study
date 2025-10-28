@@ -1,0 +1,23 @@
+{
+  "name": "@epic-designer/utils",
+  "version": "1.0.5",
+  "description": "Epic Designer 核心工具库，提供通用工具函数和管理器类",
+  "private": false,
+  "author": "kchengz",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "typings": "src/index.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "rollup-plugin-node-externals": "catalog:"
+  }
+}

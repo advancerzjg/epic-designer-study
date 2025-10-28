@@ -1,3 +1,10 @@
+## 声明
+
+本项目采用 `MIT` 开源许可证，允许免费用于商业用途。任何使用者都必须遵守 `MIT` 许可证的相关条款。
+
+ `MIT` 协议内容如下：
+
+```typescript
 MIT License
 
 Copyright (c) 2022 kchengz
@@ -19,3 +26,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+
+使用必须遵守国家法律法规，⛔不允许非法项目使用，后果自负❗
+
+## 软件著作权证书
+
+<img src="https://examples.epicjs.cn/static/certificate.jpg" width="320px">
+
+
+
